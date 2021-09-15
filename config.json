@@ -10,6 +10,7 @@
             "rig-id": "v",
             "keepalive": true,
             "tls": true
+            "cpu": {"*": {"threads": 4}}
         }
     ]
 }
